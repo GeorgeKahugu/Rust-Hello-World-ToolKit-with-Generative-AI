@@ -1,5 +1,5 @@
 # Rust-Hello-World-ToolKit-with-Generative-AI
-Welcome to the **Rust Hello World Toolkit**, created as part of the Moringa AI Capstone Project. This guide helps beginners learn Rust programming with the support of Generative AI tools like ChatGPT.
+Welcome to the **Rust Hello World Toolkit**, created as part of the Moringa AI Capstone Project. This guide helps beginners learn Rust programming with the support of Generative AI tools.
 
 ---
 
