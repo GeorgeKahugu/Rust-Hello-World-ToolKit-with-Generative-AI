@@ -3,7 +3,7 @@ Welcome to the **Rust Hello World Toolkit**, created as part of the Moringa AI C
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This is a simple, beginner-friendly "Hello World" application built with **Rust**. The goal is to learn a new programming language by leveraging AI to:
 - Understand syntax and structure
@@ -13,13 +13,13 @@ This is a simple, beginner-friendly "Hello World" application built with **Rust*
 
 ---
 
-## 🧠 Why Rust?
+##  Why Rust?
 
 Rust is a modern, fast, and memory-safe systems programming language. It’s a great alternative to C/C++ with a growing developer community. It’s also used in WebAssembly, embedded systems, and blockchain projects.
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Install [Rust](https://www.rust-lang.org/tools/install) using `rustup`:
@@ -49,4 +49,4 @@ Rust is a modern, fast, and memory-safe systems programming language. It’s a g
 
 
 ###  Created by
-## George Kahugu | Moringa School AI Capstone | August 2025
+    George Kahugu | Moringa School AI Capstone | August 2025
